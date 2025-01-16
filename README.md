@@ -10,24 +10,22 @@
 ---
 ### 🔗 Quick Links
 
-<div align="center">
-  
-  [![Resume](https://cdn-icons-png.flaticon.com/512/1870/1870080.png)][1]
+<p align="center">
+  <a href="https://drive.google.com/file/d/1udNZJ0E4N9XEByGb_y1yi71oR3uJG1qY/view?usp=sharing">
+    <img src="https://cdn-icons-png.flaticon.com/512/1870/1870080.png" width="30" height="30"/><br/>
+    <b>Resume</b>
+  </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  [![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)][2]
+  <a href="https://www.linkedin.com/in/madhuraggarwalofficial/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30"/><br/>
+    <b>LinkedIn</b>
+  </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  [![LeetCode](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)][3]
-  
-  [**Resume**][1]
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  [**LinkedIn**][2]
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  [**LeetCode**][3]
-</div>
-
-[1]: https://drive.google.com/file/d/1udNZJ0E4N9XEByGb_y1yi71oR3uJG1qY/view?usp=sharing
-[2]: https://www.linkedin.com/in/madhuraggarwalofficial/
-[3]: https://www.leetcode.com/madhuraggarwalofficial
+  <a href="https://www.leetcode.com/madhuraggarwalofficial">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30" height="30"/><br/>
+    <b>LeetCode</b>
+  </a>
+</p>
 
 ---
 
