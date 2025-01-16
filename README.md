@@ -115,37 +115,34 @@ Feel free to explore my projects and reach out! 😊
   </table>
 </div>
 
-
-
 ---
 ### 🌟 Work Experience
 
-<table style="border-collapse: collapse; width: 100%;">
+<table>
   <tr>
-    <!-- Microsoft Column -->
-    <td align="center" width="50%" style="padding: 10px;">
-      <a href="https://drive.google.com/file/d/your-ppt-link-here/view?usp=sharing" target="_blank">
-        <img src="https://static.vecteezy.com/system/resources/thumbnails/006/892/682/small/microsoft-logo-icon-editorial-free-vector.jpg" alt="Microsoft" width="150" height="150" />
-      </a>
-      <p>
-        Developed a Zero-Trust Network Security solution as an SDE Summer Intern in the Cloud+AI Team at Microsoft.
-      </p>
-    </td>
-    <!-- Juspay Column -->
-    <td align="center" width="50%" style="padding: 10px;">
-      <a href="https://juspay.in/" target="_blank">
+    <td align="center" width="50%">
+      <img src="https://static.vecteezy.com/system/resources/thumbnails/006/892/682/small/microsoft-logo-icon-editorial-free-vector.jpg" alt="Microsoft" width="150" height="150" />
+      <br>
+      Developed a Zero-Trust Network Security solution in Kata-Confidential Containers using Rust, Golang as an SDE Summer Intern in the Azure Linux (Cloud+AI) Team at Microsoft.
+      <p></p>
+      
+<div align="center">
+  
+  [![MSPPT](https://img.shields.io/badge/View%20Work-black)]([https://www.linkedin.com/in/madhuraggarwalofficial/](https://www.canva.com/design/DAGLjvvdB6s/UMs3y-8OUzCOpzTElfbg1w/view?utm_content=DAGLjvvdB6s&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6c1b19c3ca))
+  
+</div> 
+</td>
+<td align="center" width="50%" valign="top">
         <img src="https://images.yourstory.com/cs/images/companies/Juspay-1593773663260.jpg?fm=auto&ar=1%3A1&mode=fill&fill=solid&fill-color=fff&format=auto&w=384&q=75" alt="Juspay" width="150" height="150" />
-      </a>
-      <p>
-        Working as an SDE-Intern at Juspay, team Euler.
-      </p>
+        <br>
+        Working as an SDE-Intern (6-Months) at Juspay
+        <br> in the team Euler.
+        <br> Learnt Haskell and received Certification from Well-Typed
     </td>
-  </tr>
+</tr>
 </table>
 
-
 ---
-
 ### 📊 GitHub Stats
 
 <p align="center">
