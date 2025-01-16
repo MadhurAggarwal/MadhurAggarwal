@@ -10,23 +10,26 @@
 
 ---
 ### 🔗 Quick Links
-<!-- 
-<p align="center">
-  <a href="https://drive.google.com/file/d/1udNZJ0E4N9XEByGb_y1yi71oR3uJG1qY/view?usp=sharing">
-    <img src="https://cdn-icons-png.flaticon.com/512/1870/1870080.png" width="30" height="30"/><br/>
-    <b>Resume</b>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/madhuraggarwalofficial/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30"/><br/>
-    <b>LinkedIn</b>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.leetcode.com/madhuraggarwalofficial">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30" height="30"/><br/>
-    <b>LeetCode</b>
-  </a>
-</p>
+
+<div style="margin: 0 auto; width: 50%;">
+  <p align="center" style="display: flex; justify-content: space-evenly; gap: 20px; align-items: center;">
+    <a href="https://www.linkedin.com/in/madhuraggarwalofficial/" style="text-decoration: none; text-align: center;">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="50" height="50" alt="LinkedIn" />
+      <br />
+      <b>LinkedIn</b>
+    </a>
+    <a href="https://www.leetcode.com/madhuraggarwalofficial" style="text-decoration: none; text-align: center;">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="50" height="50" alt="LeetCode" />
+      <br />
+      <b>LeetCode</b>
+    </a>
+    <a href="https://drive.google.com/file/d/1udNZJ0E4N9XEByGb_y1yi71oR3uJG1qY/view?usp=sharing" style="text-decoration: none; text-align: center;">
+      <img src="https://cdn-icons-png.flaticon.com/512/1870/1870080.png" width="50" height="50" alt="Resume" />
+      <br />
+      <b>Resume</b>
+    </a>
+  </p>
+</div>
 
 -->
 <p align="center">
