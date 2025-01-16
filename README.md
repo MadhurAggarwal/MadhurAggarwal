@@ -148,16 +148,3 @@
 ### 🎵 Fun Fact
 
 I'm a Music Junkie! 🎶 Ask me for song recommendations.
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/madhuraggarwalofficial" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.leetcode.com/madhuraggarwalofficial" target="blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetCode&logoColor=white" alt="LeetCode" />
-  </a>
-</p>
