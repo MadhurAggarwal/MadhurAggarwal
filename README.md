@@ -42,11 +42,11 @@
 </p>
 
 ---
-
 ### 🛠 Skills
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
 
+  <!-- Left Hand Side -->
   <div>
     <h4>Programming Languages</h4>
     <p>
@@ -89,6 +89,7 @@
     </p>
   </div>
 
+  <!-- Right Hand Side -->
   <div>
     <h4>Databases</h4>
     <p>
