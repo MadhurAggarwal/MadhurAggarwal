@@ -10,7 +10,7 @@
 
 ---
 ### 🔗 Quick Links
-<div align="center" style="display: flex; justify-content: space-evenly; gap: 10%; align-items: center;">
+<div align="center" style="display: flex; justify-content: space-evenly; align-items: center;">
   <a href="https://www.linkedin.com/in/madhuraggarwalofficial/" style="text-decoration: none; text-align: center;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="50" height="50" alt="LinkedIn" />
     <br />
