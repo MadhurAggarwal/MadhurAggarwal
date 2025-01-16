@@ -42,95 +42,76 @@
 </p>
 
 ---
-### 🛠 Skills
-
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
-
-  <!-- Left Hand Side -->
+  <!-- Left Column -->
   <div>
     <h4>Programming Languages</h4>
     <p>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/159px-Rust_programming_language_black_logo.svg.png" alt="Rust" width="40" height="40" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="Haskell" width="40" height="40" />
+      <img src="/api/placeholder/40/40" alt="C++" />
+      <img src="/api/placeholder/40/40" alt="Python" />
+      <img src="/api/placeholder/40/40" alt="JavaScript" />
+      <img src="/api/placeholder/40/40" alt="Java" />
+      <img src="/api/placeholder/40/40" alt="Rust" />
+      <img src="/api/placeholder/40/40" alt="Haskell" />
     </p>
-  </div>
 
-  <div>
     <h4>Web Development</h4>
     <p>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
+      <img src="/api/placeholder/40/40" alt="HTML5" />
+      <img src="/api/placeholder/40/40" alt="CSS3" />
+      <img src="/api/placeholder/40/40" alt="Bootstrap" />
+      <img src="/api/placeholder/40/40" alt="React" />
     </p>
     <p>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40" />
+      <img src="/api/placeholder/40/40" alt="TypeScript" />
+      <img src="/api/placeholder/40/40" alt="Tailwind CSS" />
+      <img src="/api/placeholder/40/40" alt="Node.js" />
+      <img src="/api/placeholder/40/40" alt="Express.js" />
     </p>
-  </div>
 
-  <div>
     <h4>Cloud & DevOps</h4>
     <p>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
-      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40" />
-      <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
+      <img src="/api/placeholder/40/40" alt="AWS" />
+      <img src="/api/placeholder/40/40" alt="Azure" />
+      <img src="/api/placeholder/40/40" alt="Google Cloud" />
+      <img src="/api/placeholder/40/40" alt="Docker" />
     </p>
     <p>
-      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40" />
-      <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="40" height="40" />
+      <img src="/api/placeholder/40/40" alt="Kubernetes" />
+      <img src="/api/placeholder/40/40" alt="RabbitMQ" />
     </p>
   </div>
 
-  <!-- Right Hand Side -->
+  <!-- Right Column -->
   <div>
     <h4>Databases</h4>
     <p>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" />
+      <img src="/api/placeholder/40/40" alt="MongoDB" />
+      <img src="/api/placeholder/40/40" alt="Firebase" />
     </p>
     <p>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40" />
+      <img src="/api/placeholder/40/40" alt="MySQL" />
+      <img src="/api/placeholder/40/40" alt="PostgreSQL" />
+      <img src="/api/placeholder/40/40" alt="Redis" />
     </p>
     <p>
-      <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40" />
-      </a>
+      <img src="/api/placeholder/40/40" alt="Oracle" />
     </p>
-  </div>
 
-  <div>
     <h4>Tools & Platforms</h4>
     <p>
-      <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
-      </a>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" />
-      <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40" />
+      <img src="/api/placeholder/40/40" alt="Linux" />
+      <img src="/api/placeholder/40/40" alt="Git" />
+      <img src="/api/placeholder/40/40" alt="TensorFlow" />
+      <img src="/api/placeholder/40/40" alt="Kafka" />
     </p>
     <p>
-      <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="Nginx" width="40" height="40" />
-      <a href="https://graphql.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40" />
-      </a>
-      <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" width="40" height="40" />
-      </a>
+      <img src="/api/placeholder/40/40" alt="Nginx" />
+      <img src="/api/placeholder/40/40" alt="GraphQL" />
+      <img src="/api/placeholder/40/40" alt="Hadoop" />
     </p>
   </div>
-
 </div>
-
 
 ---
 ### 🌟 Work Experience
