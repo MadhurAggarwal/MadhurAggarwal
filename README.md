@@ -1,22 +1,3 @@
-<!--
-**MadhurAggarwal/MadhurAggarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--
-**MadhurAggarwal/MadhurAggarwal** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
--->
-
 <h1 align="center">Hi 👋, I'm Madhur Aggarwal</h1>
 <h3 align="center">SDE Intern @ Juspay | Aspiring Software Engineer</h3>
 
@@ -30,38 +11,67 @@ Here are some ideas to get you started:
 
 ### 🔗 Quick Links
 
-- 📄 **[Resume](https://drive.google.com/file/d/1g4KuX2nCJoM7tkL7PtdFkju_KbrdqmDX/view?usp=sharing)**
-- 💼 [LinkedIn](https://www.linkedin.com/in/madhuraggarwalofficial/) 
-- 🖥️ [LeetCode](https://www.leetcode.com/madhuraggarwalofficial)
+<p align="center">
+  <a href="https://drive.google.com/file/d/1g4KuX2nCJoM7tkL7PtdFkju_KbrdqmDX/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-%230077B5.svg?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
+  </a>
+  <a href="https://www.linkedin.com/in/madhuraggarwalofficial/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.leetcode.com/madhuraggarwalofficial" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetCode&logoColor=white" alt="LeetCode" />
+  </a>
+</p>
 
 ---
 
 ### 🛠 Skills
 
 #### Programming Languages
-- **Proficient:** C++, Python, JavaScript, SQL  
-- **Familiar:** Haskell, Rust, TypeScript
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQL" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="Haskell" width="40" height="40" />
+</p>
 
 #### Web Development
-- **Frontend:** HTML5, CSS3, Bootstrap, React, Tailwind CSS  
-- **Backend:** Node.js, Express.js, GraphQL
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40" />
+</p>
 
 #### Cloud & DevOps
-- AWS, Azure, GCP, Kubernetes, Docker, CI/CD Pipelines
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40" />
+</p>
 
 #### Databases
-- MongoDB, MySQL, PostgreSQL, Redis, RabbitMQ
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40" />
+</p>
 
 #### Tools & Platforms
-- Git, Kafka, TensorFlow, Nginx, Hadoop, Firebase, Linux
-
----
-
-### 📚 Learning & Projects
-
-- 🔭 **Currently Working On:** [Haskell Training](https://well-typed.com/)
-- 🌱 **Exploring:** Advanced Kubernetes concepts and Rust programming
-- 🤝 **Collaborations:** Open to working on Web Development, DSA, and Cloud-based projects
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="Nginx" width="40" height="40" />
+</p>
 
 ---
 
@@ -87,20 +97,19 @@ Here are some ideas to get you started:
 
 ---
 
-### 💬 Fun Fact
+### 🎵 Fun Fact
 
-🎵 I'm a Music Junkie! Ask me for song recommendations.
+I'm a Music Junkie! 🎶 Ask me for song recommendations.
 
 ---
 
-### ⚙️ Connect With Me
+### 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/madhuraggarwalofficial" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.leetcode.com/madhuraggarwalofficial" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetCode&logoColor=white" alt="LeetCode" />
   </a>
 </p>
-
