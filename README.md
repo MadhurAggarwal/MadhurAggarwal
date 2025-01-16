@@ -24,11 +24,11 @@
 </p>
 
 <p align="center">
-  <b>LinkedIn</b>
+  <a href="https://www.linkedin.com/in/madhuraggarwalofficial/">LinkedIn</a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>LeetCode</b>
+  <a href="https://www.leetcode.com/madhuraggarwalofficial">Leetcode</a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Resume</b>
+  <a href="https://drive.google.com/file/d/1g4KuX2nCJoM7tkL7PtdFkju_KbrdqmDX/view?usp=drivesdk">Resume</a>
 </p>
 
 ---
