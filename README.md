@@ -8,21 +8,20 @@
 </p>
 
 ---
-
 ### 🔗 Quick Links
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/1udNZJ0E4N9XEByGb_y1yi71oR3uJG1qY/view?usp=sharing" target="_blank" style="text-decoration: none; margin: 0 20px;">
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 30px;">
+  <a href="https://drive.google.com/file/d/1udNZJ0E4N9XEByGb_y1yi71oR3uJG1qY/view?usp=sharing" target="_blank" style="text-decoration: none; text-align: center;">
     <img src="https://cdn-icons-png.flaticon.com/512/1870/1870080.png" alt="Resume" height="50" width="50" />
-    <br><span style="font-size: 16px; color: black;">Resume</span>
+    <br><span style="font-size: 16px; color: #000; font-weight: 600;">Resume</span>
   </a>
-  <a href="https://www.linkedin.com/in/madhuraggarwalofficial/" target="_blank" style="text-decoration: none; margin: 0 20px;">
+  <a href="https://www.linkedin.com/in/madhuraggarwalofficial/" target="_blank" style="text-decoration: none; text-align: center;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="50" />
-    <br><span style="font-size: 16px; color: black;">LinkedIn</span>
+    <br><span style="font-size: 16px; color: #000; font-weight: 600;">LinkedIn</span>
   </a>
-  <a href="https://www.leetcode.com/madhuraggarwalofficial" target="_blank" style="text-decoration: none; margin: 0 20px;">
+  <a href="https://www.leetcode.com/madhuraggarwalofficial" target="_blank" style="text-decoration: none; text-align: center;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="50" width="50" />
-    <br><span style="font-size: 16px; color: black;">LeetCode</span>
+    <br><span style="font-size: 16px; color: #000; font-weight: 600;">LeetCode</span>
   </a>
 </p>
 
