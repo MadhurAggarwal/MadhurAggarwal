@@ -10,20 +10,24 @@
 ---
 ### 🔗 Quick Links
 
-<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 30px;">
-  <a href="https://drive.google.com/file/d/1udNZJ0E4N9XEByGb_y1yi71oR3uJG1qY/view?usp=sharing" target="_blank" style="text-decoration: none; text-align: center;">
-    <img src="https://cdn-icons-png.flaticon.com/512/1870/1870080.png" alt="Resume" height="50" width="50" />
-    <br><span style="font-size: 16px; color: #000; font-weight: 600;">Resume</span>
-  </a>
-  <a href="https://www.linkedin.com/in/madhuraggarwalofficial/" target="_blank" style="text-decoration: none; text-align: center;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="50" />
-    <br><span style="font-size: 16px; color: #000; font-weight: 600;">LinkedIn</span>
-  </a>
-  <a href="https://www.leetcode.com/madhuraggarwalofficial" target="_blank" style="text-decoration: none; text-align: center;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="50" width="50" />
-    <br><span style="font-size: 16px; color: #000; font-weight: 600;">LeetCode</span>
-  </a>
-</p>
+<div align="center">
+  
+  [![Resume](https://cdn-icons-png.flaticon.com/512/1870/1870080.png)][1]
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  [![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)][2]
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  [![LeetCode](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)][3]
+  
+  [**Resume**][1]
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  [**LinkedIn**][2]
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  [**LeetCode**][3]
+</div>
+
+[1]: https://drive.google.com/file/d/1udNZJ0E4N9XEByGb_y1yi71oR3uJG1qY/view?usp=sharing
+[2]: https://www.linkedin.com/in/madhuraggarwalofficial/
+[3]: https://www.leetcode.com/madhuraggarwalofficial
 
 ---
 
