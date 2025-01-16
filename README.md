@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/madhuraggarwalofficial/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/madhuraggarwalofficial/" style="text-decoration: none">LinkedIn</a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.leetcode.com/madhuraggarwalofficial">Leetcode</a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
