@@ -17,7 +17,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.leetcode.com/madhuraggarwalofficial">
-    <img src="![image](https://github.com/user-attachments/assets/ebc8dadb-bd34-4cfc-aa7f-6ac8430dca35)" alt="LeetCode" height="50" width="50" />
+    <img src="https://pathrise-website-guide-wp.s3.us-west-1.amazonaws.com/guides/wp-content/uploads/2019/05/10175228/images-11.png" alt="LeetCode" height="50" width="50" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://drive.google.com/file/d/1g4KuX2nCJoM7tkL7PtdFkju_KbrdqmDX/view?usp=drivesdk">
