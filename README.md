@@ -1,14 +1,14 @@
 <h1 align="center">Hi there 👋, I'm Madhur Aggarwal</h1>
 
 <p align="center">
-  <em>
+  <b>
     Software Developer | B.Tech IT (2021-25) at <a href="https://www.nitj.ac.in/">NIT Jalandhar</a>
-  </em>
+  </b>
 </p>
 
 ---
+### 🌟 About Me
 
-🌟 **About Me**  
 - 💻 Currently an **SDE Intern** at [Juspay](https://juspay.io/in), in the **Team Euler**.  
 - 🌐 Previously a **Summer Intern** at [Microsoft](https://www.microsoft.com/en-in), working with the **Cloud+AI Team**.  
 - 🛠️ Skilled in **MERN Stack**, **Transformers**, **Kubernetes**, and **Kata-Containers**.  
@@ -24,7 +24,8 @@ Feel free to explore my projects and reach out! 😊
 </p>
 
 ---
-### 🔗 Quick Links
+### 🔗 Links
+
 <div align="center">
   <a href="https://www.linkedin.com/in/madhuraggarwalofficial/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="LinkedIn" height="50" width="50" />
@@ -36,13 +37,12 @@ Feel free to explore my projects and reach out! 😊
     <img src="https://cdn-icons-png.flaticon.com/512/2303/2303856.png" alt="Resume" height="50" width="50" />
   </a>
 </div>
-
 <div align="center">
-
-  <a href="https://www.linkedin.com/in/madhuraggarwalofficial/" style="text-decoration: none; color: inherit;">LinkedIn</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.leetcode.com/madhuraggarwalofficial" style="text-decoration: none; color: inherit;">LeetCode</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/1g4KuX2nCJoM7tkL7PtdFkju_KbrdqmDX/view?usp=drivesdk" style="text-decoration: none; color: inherit;">Resume</a>
-
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/madhuraggarwalofficial/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  [![Leetcode](https://img.shields.io/badge/Leetcode-black)](https://www.leetcode.com/madhuraggarwalofficial)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  [![Resume](https://img.shields.io/badge/Resume-red)](https://drive.google.com/file/d/1g4KuX2nCJoM7tkL7PtdFkju_KbrdqmDX/view?usp=drivesdk)
+  
 </div>
 
 ---
@@ -155,7 +155,3 @@ Feel free to explore my projects and reach out! 😊
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhuraggarwal&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
-
-### 🎵 Fun Fact
-I'm a Music Junkie! 🎶
