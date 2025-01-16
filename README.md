@@ -1,5 +1,21 @@
-<h1 align="center">Hi 👋, I'm Madhur Aggarwal</h1>
-<h3 align="center">Aspiring Software Engineer</h3>
+<h1 align="center">Hi there 👋, I'm Madhur Aggarwal</h1>
+
+<p align="center">
+  <em>
+    Software Developer | B.Tech IT (2021-25) at <a href="https://www.nitj.ac.in/">NIT Jalandhar</a>
+  </em>
+</p>
+
+---
+
+🌟 **About Me**  
+- 💻 Currently an **SDE Intern** at [Juspay](https://juspay.io/in), in the **Team Euler**.  
+- 🌐 Previously a **Summer Intern** at [Microsoft](https://www.microsoft.com/en-in), working with the **Cloud+AI Team**.  
+- 🛠️ Skilled in **MERN Stack**, **Transformers**, **Kubernetes**, and **Kata-Containers**.  
+- 📚 Ask me Anything related to Problem Solving & Optimizations in DSA (I'm a LeetCode **Guardian**!).
+- 🎵 Fun Fact: I'm a Music Junkie! 🎶
+
+Feel free to explore my projects and reach out! 😊
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -7,29 +23,27 @@
   </a>
 </p>
 
-
 ---
 ### 🔗 Quick Links
-
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/madhuraggarwalofficial/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="LinkedIn" height="50" width="50" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.leetcode.com/madhuraggarwalofficial">
-    <img src="https://pathrise-website-guide-wp.s3.us-west-1.amazonaws.com/guides/wp-content/uploads/2019/05/10175228/images-11.png" alt="LeetCode" height="50" width="50" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.theorg.com/36218b9f-879b-481e-9332-ebc4692d7587_thumb.jpg" alt="LeetCode" height="50" width="50" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://drive.google.com/file/d/1g4KuX2nCJoM7tkL7PtdFkju_KbrdqmDX/view?usp=drivesdk">
-    <img src="https://cdn-icons-png.flaticon.com/512/1870/1870080.png" alt="Resume" height="50" width="50" />
+    <img src="https://cdn-icons-png.flaticon.com/512/2303/2303856.png" alt="Resume" height="50" width="50" />
   </a>
-</p>
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/madhuraggarwalofficial/">LinkedIn</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.leetcode.com/madhuraggarwalofficial">Leetcode</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/1g4KuX2nCJoM7tkL7PtdFkju_KbrdqmDX/view?usp=drivesdk">Resume</a>
-</p>
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/madhuraggarwalofficial/" style="text-decoration: none; color: inherit;">LinkedIn</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.leetcode.com/madhuraggarwalofficial" style="text-decoration: none; color: inherit;">LeetCode</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://drive.google.com/file/d/1g4KuX2nCJoM7tkL7PtdFkju_KbrdqmDX/view?usp=drivesdk" style="text-decoration: none; color: inherit;">Resume</a>
+
+</div>
 
 ---
 ### 🛠 Skills
@@ -144,5 +158,4 @@
 ---
 
 ### 🎵 Fun Fact
-
-I'm a Music Junkie! 🎶 Ask me for song recommendations.
+I'm a Music Junkie! 🎶
