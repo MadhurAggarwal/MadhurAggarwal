@@ -10,24 +10,23 @@
 
 ---
 ### 🔗 Quick Links
-<div align="center" style="display: flex; flex-direction: row; justify-content: space-evenly; align-items: center;">
-  <a href="https://www.linkedin.com/in/madhuraggarwalofficial/" style="text-decoration: none; text-align: center;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="50" height="50" alt="LinkedIn" />
-    <br />
-    <b>LinkedIn</b>
-  </a>
-  <a href="https://www.leetcode.com/madhuraggarwalofficial" style="text-decoration: none; text-align: center;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="50" height="50" alt="LeetCode" />
-    <br />
-    <b>LeetCode</b>
-  </a>
-  <a href="https://drive.google.com/file/d/1g4KuX2nCJoM7tkL7PtdFkju_KbrdqmDX/view?usp=drivesdk" style="text-decoration: none; text-align: center;">
-    <img src="https://cdn-icons-png.flaticon.com/512/1870/1870080.png" width="50" height="50" alt="Resume" />
-    <br />
-    <b>Resume</b>
-  </a>
-</div>
 
+<div style="text-align: center; padding: 20px;">
+  <div style="display: flex; justify-content: center; gap: 40px;">
+    <div style="display: flex; flex-direction: column; align-items: center;">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="50" height="50" alt="LinkedIn" />
+      <p style="margin-top: 10px; font-weight: bold;">LinkedIn</p>
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center;">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="50" height="50" alt="LeetCode" />
+      <p style="margin-top: 10px; font-weight: bold;">LeetCode</p>
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center;">
+      <img src="https://cdn-icons-png.flaticon.com/512/1870/1870080.png" width="50" height="50" alt="Resume" />
+      <p style="margin-top: 10px; font-weight: bold;">Resume</p>
+    </div>
+  </div>
+</div>
 
 ---
 ### 🛠 Skills
