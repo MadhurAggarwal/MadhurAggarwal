@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1udNZJ0E4N9XEByGb_y1yi71oR3uJG1qY/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-%230077B5.svg?style=for-the-badge&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAABUFBMVEX///9VbB5NcaBQabRhpbdrm7xuq7x0urwQBoGpobdXarcODQBSpL8AG3XvcYeotNlwdJphcYTewfZMhNMwGpIX3fGv+P/8v5yksRbnsZqlL2XzudpaGeOtb0TboCpvcCSweezzuuGrdYWjl91lLZVabZiobdcobV3nbqnvdujvd2/tL6qqbF5k8AHz/9ti71sr8wXC98kMZYdrxfha2LsNS/mLyZvLeXt9d0ncyRtNl1o8TUlL6Nu9X6+vqSu9yqwrp0m5R4n5phm7JSk7Odudjj7/Jbg6U2UIJlgaohVHtuaZRvMKA/jtNo9Y0WoFucGl7rYe/u+5+r+JfkMR0m9U8XWlOhxSbdI4UJMzUFUwVDcNUsAEqltAAADtklEQVQYFUXA6bKCMAwF0Gd1MQ9zO2Q9Di+VqfaRlRS4zPd9//SJeUrCakQhsSh4KhWRGSazG0XENLP4/0+Gm9tx8XzR7+trG+80CHSQpRyqXA9Tb4Nsg+jCo2VcKB+VJ2BVwnphjagQljYZ5EXG2xFaWcCLQLCoxqWiFkIEnGYg5kcbwtGLio4BSCQSasU5jHbgnHLdPHWB4e3nTQ5fnPhKgfzHnBtIBcNg54sIOq5z6gOApHsmIaqq5AjKuZoWxiELIOmvgMz9QwQYRNWBiNxkQg5EfIew/A8dMPwhQpi2AzICsBbHizowTqOuQfBUURRQ2YQ5Yo4JXgdSwDQPi1OBDLKFOwwejqNxj5FsPYo4IKGYPsgdpvJzUsLBvA2Rshjrgr58vEQIVVo4jq93FgzfuRixGbUSUHLtbTLhLbFa6xlfYVR9NfrCh6xiDWxeLz/LQ1PCi+l2Fd38DLskmXbAUNAAAAAElFTkSuQmCC" alt="Resume" />
+    <img src="https://cdn-icons-png.flaticon.com/512/1870/1870080.png" alt="Resume" />
   </a>
   <a href="https://www.linkedin.com/in/madhuraggarwalofficial/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
