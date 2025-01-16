@@ -105,6 +105,7 @@
 <p align="left">
   <a href="https://drive.google.com/file/d/your-ppt-link-here/view?usp=sharing" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft" width="150" />
+    <!--<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft" width="150" />-->
   </a>
 </p>
 <p>Developed a Zero-Trust Network Security solution as an SDE Summer Intern in the Cloud+AI Team at Microsoft.</p>
