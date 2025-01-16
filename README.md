@@ -100,12 +100,12 @@
 </p>
 
 ---
-
 ### 🌟 Work Experience
+
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
     <!-- Microsoft Column -->
-    <td align="center" width="50%" style="border-right: 1px solid #ddd; padding: 10px;">
+    <td align="center" width="50%" style="padding: 10px;">
       <a href="https://drive.google.com/file/d/your-ppt-link-here/view?usp=sharing" target="_blank">
         <img src="https://static.vecteezy.com/system/resources/thumbnails/006/892/682/small/microsoft-logo-icon-editorial-free-vector.jpg" alt="Microsoft" width="150" height="150" />
       </a>
@@ -116,7 +116,7 @@
     <!-- Juspay Column -->
     <td align="center" width="50%" style="padding: 10px;">
       <a href="https://juspay.in/" target="_blank">
-        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO5XL4FA_pQ4iTnH2PLA3-7NOtwh_NwzYXlzrAu9SiJyFn7Ptjq2bNa0Rhr2AqyoWpKLo2JgByNyQ9jyhGntCwa81yHAmBJKvJjOsPVBC33DruNgH4dOBL7tXW8DqRx6VX9VC0Toy6C0euMBF6NfZrD5elii97rDwBfsB6JJ-fnPQy5LfrkxLDQN7I4V8/s2400/Juspay.jpg" alt="Juspay" width="150" height="150" />
+        <img src="https://images.yourstory.com/cs/images/companies/Juspay-1593773663260.jpg?fm=auto&ar=1%3A1&mode=fill&fill=solid&fill-color=fff&format=auto&w=384&q=75" alt="Juspay" width="150" height="150" />
       </a>
       <p>
         Working as an SDE-Intern at Juspay, team Euler.
@@ -124,6 +124,7 @@
     </td>
   </tr>
 </table>
+
 
 ---
 
