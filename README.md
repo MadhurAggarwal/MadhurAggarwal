@@ -12,7 +12,7 @@
 ### 🔗 Quick Links
 
 <div style="text-align: center; padding: 20px;">
-  <div style="display: flex; justify-content: center; gap: 40px;">
+  <div style="display: flex; flex-direction: column; justify-content: center; gap: 40px;">
     <div style="display: flex; flex-direction: column; align-items: center;">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="50" height="50" alt="LinkedIn" />
       <p style="margin-top: 10px; font-weight: bold;">LinkedIn</p>
