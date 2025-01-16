@@ -9,7 +9,7 @@
 
 ---
 ### 🔗 Quick Links
-
+<!-- 
 <p align="center">
   <a href="https://drive.google.com/file/d/1udNZJ0E4N9XEByGb_y1yi71oR3uJG1qY/view?usp=sharing">
     <img src="https://cdn-icons-png.flaticon.com/512/1870/1870080.png" width="30" height="30"/><br/>
@@ -26,6 +26,11 @@
     <b>LeetCode</b>
   </a>
 </p>
+
+-->
+- 📄 **[Resume](https://drive.google.com/file/d/1g4KuX2nCJoM7tkL7PtdFkju_KbrdqmDX/view?usp=sharing)**
+- 💼 [LinkedIn](https://www.linkedin.com/in/madhuraggarwalofficial/) 
+- 🖥️ [LeetCode](https://www.leetcode.com/madhuraggarwalofficial)
 
 ---
 
