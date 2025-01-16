@@ -3,9 +3,10 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=madhuraggarwal&theme=gruvbox" alt="GitHub Profile Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=madhuraggarwal&theme=gruvbox&exclude=reviews" alt="GitHub Profile Trophy" />
   </a>
 </p>
+
 
 ---
 ### 🔗 Quick Links
