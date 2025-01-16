@@ -28,9 +28,17 @@
 </p>
 
 -->
-- 📄 **[Resume](https://drive.google.com/file/d/1g4KuX2nCJoM7tkL7PtdFkju_KbrdqmDX/view?usp=sharing)**
-- 💼 [LinkedIn](https://www.linkedin.com/in/madhuraggarwalofficial/) 
-- 🖥️ [LeetCode](https://www.leetcode.com/madhuraggarwalofficial)
+<p align="center">
+  <a href="https://drive.google.com/file/d/1g4KuX2nCJoM7tkL7PtdFkju_KbrdqmDX/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-%230077B5.svg?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
+  </a>
+  <a href="https://www.linkedin.com/in/madhuraggarwalofficial/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.leetcode.com/madhuraggarwalofficial" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetCode&logoColor=white" alt="LeetCode" />
+  </a>
+</p>
 
 ---
 
