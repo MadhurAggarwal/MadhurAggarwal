@@ -135,8 +135,9 @@ Feel free to explore my projects and reach out! 😊
 <td align="center" width="50%" valign="top">
         <img src="https://images.yourstory.com/cs/images/companies/Juspay-1593773663260.jpg?fm=auto&ar=1%3A1&mode=fill&fill=solid&fill-color=fff&format=auto&w=384&q=75" alt="Juspay" width="150" height="150" />
         <br>
-        Working as an SDE-Intern (6-Months) at Juspay
-        <br> in the team Euler.
+        Currently Working as an SDE-Intern (6-Months)
+  
+  at Juspay in the team [Euler](https://github.com/juspay/euler-hs).
         <br> Learnt Haskell and received Certification from Well-Typed
     </td>
 </tr>
