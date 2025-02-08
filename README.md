@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>
-    Software Developer | Microsoft | B.Tech IT (2021-25), <a href="https://www.nitj.ac.in/">NIT Jalandhar</a>
+    Software Developer, Microsoft | B.Tech IT (2021-25), <a href="https://www.nitj.ac.in/">NIT Jalandhar</a>
   </b>
 </p>
 
