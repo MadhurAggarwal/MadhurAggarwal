@@ -139,7 +139,7 @@ Feel free to explore my projects and reach out! 😊
         Currently Working as an SDE-Intern (6-Months)
   
   at Juspay in the team [Euler](https://github.com/juspay/euler-hs).
-        <br> Learnt Haskell and received Certification from Well-Typed
+        <br> Benchmarking & designing architectures for Synchronous Replication in Redis Clusters for better data consistency
     </td>
 </tr>
 </table>
