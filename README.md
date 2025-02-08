@@ -10,7 +10,7 @@
 ### 🌟 About Me
 
 - 💻 Currently an **SDE Intern** at [Juspay](https://juspay.io/in), in the **Team Euler**.  
-- 🌐 Previously a **Summer Intern** at [Microsoft](https://www.microsoft.com/en-in), working with the **Cloud+AI Team**.  
+- 🌐 Previously a **Summer Intern** at [Microsoft](https://drive.google.com/file/d/1OH86pOPUZ3f9onieX_HxtS9RF9Qg3TwB/view?usp=sharing), working with the **Cloud+AI Team**.  
 - 🛠️ Skilled in **MERN Stack**, **Transformers**, **Kubernetes**, and **Kata-Containers**.  
 - 📚 Ask me Anything related to Problem Solving & Optimizations in DSA (I'm a LeetCode **Guardian**!).
 - 🎵 Fun Fact: I'm a Music Junkie! 🎶
