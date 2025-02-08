@@ -1,3 +1,4 @@
+![banner](https://github.com/user-attachments/assets/b8f84540-45ef-4649-a76e-4252658e2fb7)
 <h1 align="center">Hi👋, I'm Madhur Aggarwal</h1>
 
 <p align="center">
