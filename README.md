@@ -41,7 +41,7 @@ Feel free to explore my projects and reach out! 😊
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/madhuraggarwalofficial/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   [![Leetcode](https://img.shields.io/badge/Leetcode-black)](https://www.leetcode.com/madhuraggarwalofficial)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  [![Resume](https://img.shields.io/badge/Resume-red)](https://drive.google.com/file/d/1g4KuX2nCJoM7tkL7PtdFkju_KbrdqmDX/view?usp=drivesdk)
+  [![Resume](https://img.shields.io/badge/Resume-red)](https://drive.google.com/file/d/1mcXzwJZMxwnt7TFxw3P91KwdIsvtFPK1/view?usp=sharing)
   
 </div>
 
