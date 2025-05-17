@@ -34,7 +34,7 @@ Feel free to explore my projects and reach out! 😊
   <a href="https://www.leetcode.com/madhuraggarwalofficial">
     <img src="https://cdn.theorg.com/36218b9f-879b-481e-9332-ebc4692d7587_thumb.jpg" alt="LeetCode" height="50" width="50" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="[https://drive.google.com/file/d/1g4KuX2nCJoM7tkL7PtdFkju_KbrdqmDX/view?usp=drivesdk](https://drive.google.com/file/d/1d4U95BR5A8LBEcAWgIzqEkrPJz3_sKuT/view?usp=sharing)">
+  <a href="https://drive.google.com/file/d/1d4U95BR5A8LBEcAWgIzqEkrPJz3_sKuT/view?usp=sharing">
     <img src="https://cdn-icons-png.flaticon.com/512/2303/2303856.png" alt="Resume" height="50" width="50" />
   </a>
 </div>
