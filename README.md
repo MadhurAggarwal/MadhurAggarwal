@@ -117,14 +117,14 @@ Feel free to explore my projects and reach out! 😊
 </div>
 
 ---
-### 🌟 Work Experience
+### 🌟 Internship Experience
 
 <table>
   <tr>
     <td align="center" width="50%">
       <img src="https://static.vecteezy.com/system/resources/thumbnails/006/892/682/small/microsoft-logo-icon-editorial-free-vector.jpg" alt="Microsoft" width="150" height="150" />
       <br>
-      Developed a Zero-Trust Network Security solution in Kata-Confidential Containers using Rust, Golang as an SDE Summer Intern in the Azure Linux (Cloud+AI) Team at Microsoft.
+      Developed an Encrypted Network Security Tunnel in Kata-Confidential Containers using Rust & Bash Scripts as an SDE Summer Intern in the Azure Linux (Cloud+AI) Team at Microsoft.
       <p></p>
       
 <div align="center">
@@ -136,10 +136,14 @@ Feel free to explore my projects and reach out! 😊
 <td align="center" width="50%" valign="top">
         <img src="https://images.yourstory.com/cs/images/companies/Juspay-1593773663260.jpg?fm=auto&ar=1%3A1&mode=fill&fill=solid&fill-color=fff&format=auto&w=384&q=75" alt="Juspay" width="150" height="150" />
         <br>
-        Worked as an SDE-Intern (6-Months)
+        Worked as an SDE-Intern (6-Months) at Juspay in team Euler. Designed & Implemented new KV Architecture for Redis Query Optimization. Also developed Code-Refactorer using GenAI.
+        <p></p>
+
+  <div align="center">
   
-  at Juspay in the team [Euler](https://github.com/juspay/euler-hs).
-        <br> Benchmarking & designing architectures for Synchronous Replication in Redis Clusters for better data consistency
+  [![JUSPAYPPT](https://img.shields.io/badge/View%20Work-black)](https://www.canva.com/design/DAGiGDxLLKU/0i0T6EBjX-mAqu8e15iNug/view?utm_content=DAGiGDxLLKU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h55089b6a1c)
+  
+</div> 
     </td>
 </tr>
 </table>
