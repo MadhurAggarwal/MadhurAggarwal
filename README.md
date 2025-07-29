@@ -129,7 +129,7 @@ Feel free to explore my projects and reach out! 😊
       
 <div align="center">
   
-  [![MSPPT](https://img.shields.io/badge/View%20Work-black)](https://www.canva.com/design/DAGLjvvdB6s/UMs3y-8OUzCOpzTElfbg1w/view?utm_content=DAGLjvvdB6s&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6c1b19c3ca)
+  [![MSPPT](https://img.shields.io/badge/View%20Work-blue)](https://www.canva.com/design/DAGLjvvdB6s/UMs3y-8OUzCOpzTElfbg1w/view?utm_content=DAGLjvvdB6s&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6c1b19c3ca)
   
 </div> 
 </td>
@@ -141,7 +141,7 @@ Feel free to explore my projects and reach out! 😊
 
   <div align="center">
   
-  [![JUSPAYPPT](https://img.shields.io/badge/View%20Work-black)](https://www.canva.com/design/DAGiGDxLLKU/0i0T6EBjX-mAqu8e15iNug/view?utm_content=DAGiGDxLLKU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h55089b6a1c)
+  [![JUSPAYPPT](https://img.shields.io/badge/View%20Work-blue)](https://www.canva.com/design/DAGiGDxLLKU/0i0T6EBjX-mAqu8e15iNug/view?utm_content=DAGiGDxLLKU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h55089b6a1c)
   
 </div> 
     </td>
