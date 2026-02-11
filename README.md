@@ -10,9 +10,10 @@
 ---
 ### 🌟 About Me
 Currently an SDE at Microsoft
-- 💻 Worked as an **SDE Intern** at [Juspay](https://juspay.io/in), in the **Team Euler**.  
-- 🌐 Previously a **Summer Intern** at [Microsoft](https://drive.google.com/file/d/1OH86pOPUZ3f9onieX_HxtS9RF9Qg3TwB/view?usp=sharing), working with the **Cloud+AI Team**.  
-- 🛠️ Skilled in **MERN Stack**, **Transformers**, **Kubernetes**, and **Kata-Containers**.  
+- Working currently on [Azure Linux](https://github.com/microsoft/azurelinux), ADO Pipelines, SWE-Agent Usage, Patch Backporting and Linux Packages Bug RCA and Fixes
+- 💻 Worked as an **SDE Intern** at [Juspay](https://juspay.io/in), in the **Team Euler**, on Redis, Secondary-Key Architecture & GPT-4 Based Code Refactoring Tools, Haskell.
+- 🌐 Previously a **Summer Intern** at [Microsoft](https://drive.google.com/file/d/1OH86pOPUZ3f9onieX_HxtS9RF9Qg3TwB/view?usp=sharing), working with the **Azure Linux Team**, on Kata Containers / Kubernetes, Pod Network Security, IP Tables, Rust & Golang.  
+- 🛠️ Skilled Backend & DevOPS Developer, experienced in **MERN Stack**, **Transformers**, **Kubernetes**.  
 - 📚 Ask me Anything related to Problem Solving & Optimizations in DSA (I'm a LeetCode **Guardian**!).
 - 🎵 Fun Fact: I'm a Music Junkie! 🎶
 
