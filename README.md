@@ -10,7 +10,7 @@
 ---
 ### 🌟 About Me
 Currently an SDE at Microsoft
-- Working currently on [Azure Linux](https://github.com/microsoft/azurelinux), ADO Pipelines, SWE-Agent Usage, Patch Backporting and Linux Packages Bug RCA and Fixes
+- Working currently on [Azure Linux](https://github.com/microsoft/azurelinux) Tests & Validations, ADO Pipelines, SWE-Agent Usage, Patch Backporting and Linux Packages Bug RCA and Fixes
 - 💻 Worked as an **SDE Intern** at [Juspay](https://juspay.io/in), in the **Team Euler**, on Redis, Secondary-Key Architecture & GPT-4 Based Code Refactoring Tools, Haskell.
 - 🌐 Previously a **Summer Intern** at [Microsoft](https://drive.google.com/file/d/1OH86pOPUZ3f9onieX_HxtS9RF9Qg3TwB/view?usp=sharing), working with the **Azure Linux Team**, on Kata Containers / Kubernetes, Pod Network Security, IP Tables, Rust & Golang.  
 - 🛠️ Skilled Backend & DevOPS Developer, experienced in **MERN Stack**, **Transformers**, **Kubernetes**.  
